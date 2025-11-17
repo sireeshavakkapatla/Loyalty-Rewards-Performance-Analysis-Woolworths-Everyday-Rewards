@@ -1,17 +1,21 @@
+<img width="1536" height="855" alt="woolworths slide 1" src="https://github.com/user-attachments/assets/a2e9b204-ae5d-43ef-9ddb-334608ac4c09" />
+<img width="1533" height="858" alt="woolworths slide 2" src="https://github.com/user-attachments/assets/4a2f0b8e-c865-448f-a202-b08d14fb5940" />
+
+
 ## Loyalty Rewards Performance Analysis – Woolworths Everyday Rewards
 
 ### Quantitative Outcomes
 
-1,000 customers registered across Melbourne stores, generating 5,508 transactions and 874K loyalty points earned.
-Customers redeemed 42K points, representing a 5.10% redemption rate, slightly above the corporate threshold of 4.79%.
-Sydney store contributed 8.67% of total points earned and 9.23% of points redeemed, showing higher-than-average customer engagement.
+* **1,000 customers** registered across Melbourne stores, generating **5,508 transactions** and **874K loyalty points earned**.
+* Customers redeemed **42K points**, representing a **5.10% redemption rate**, slightly above the corporate threshold of **4.79%**.
+* **Sydney store contributed 8.67% of total points earned** and **9.23% of points redeemed**, showing higher-than-average customer engagement.
 
 ### Identified top redeemers:
 
-Bruce Coffey redeemed the highest (581 points)
-Stephen Jordan earned the highest (1,086 points)
-Quantified unused value with ~71,970 unredeemed points remaining in Sydney, indicating potential opportunity for upsell or activation campaigns.
-Membership breakdown showed 89.3% active customers, and 5.5% suspended, supporting healthy loyalty program participation.
+* Bruce Coffey redeemed the highest (581 points)
+* Stephen Jordan earned the highest (1,086 points)
+* Quantified unused value with ~71,970 unredeemed points remaining in Sydney, indicating potential opportunity for upsell or activation campaigns.
+* Membership breakdown showed 89.3% active customers, and 5.5% suspended, supporting healthy loyalty program participation.
 
 ### Redemption behavior:
 
@@ -20,7 +24,7 @@ Fuel discount redemptions: ~21%
 Qantas Points: 6.08%
 Highlights the dominance of supermarket-driven reward consumption.
 
-Store-level contribution:
+### Store-level contribution:
 
 Best performers (earned): Parramatta 88K, Bondi 85K, Campbelltown 84K
 Best performers (redeemed): Hornsby 82K, Bankstown 82K
